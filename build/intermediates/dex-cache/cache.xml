@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_4e3e06f531acdd2c5032edb0127b2e528d182252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_dd05035d2c598435d63f98597ac96a8df306f7ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_0d0f81752a14984d6d6ed1008986252f37892cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_0cd71a6f85efda48b5c3aa230ad9d309745e8271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_275ee18062b7bf1179e841dcbd796a4c7a9d5bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2f1a82c81948a367a186ea8ffe8d30507578790c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_86be9436be7bd8ab6258e2b78692f6156e5b69ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_09f4549a842d0359d41b28eecfb5a1b8401679f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e864bd59053bf1cffcc1a16ec7c1d4630e912689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ec7608eb745cc5fb1422061a86bb655b76fce020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f01dea52522c043a182fbb7abbf412ee8d1cd5f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_497115c850bf02dc36c802df18a801381aabb53a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_3fcb3c01a9aa5ba5e88fd856e192fc7a4fa5c649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3cb84a674ef06bc4976bafb75e890c75db0b0b40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Student\Documents\Visual Studio 2015\Projects\Court_Counter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_e8d500a8f0d1046b8a99dd5098807c4389cc0bd2.jar" />
+    </item>
+
+</items>
